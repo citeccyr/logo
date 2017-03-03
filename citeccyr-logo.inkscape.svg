@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 74 74"
+   height="74mm"
+   width="74mm"
+   sodipodi:docname="citeccyr-logo.inkscape.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview3721"
+     showgrid="false"
+     inkscape:zoom="1.8985642"
+     inkscape:cx="139.84252"
+     inkscape:cy="139.84252"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text12" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-223)"
+     id="layer1">
+    <g
+       aria-label="[1]"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text12">
+      <path
+         d="m 9.1043584,282.5644 v -45.9232 l 9.4487996,-0.6096 0.2032,1.3208 -4.8768,0.8128 q -0.5588,0.0508 -0.8636,0.508 -0.254,0.4572 -0.254,1.1176 v 39.624 q 0,0.6604 0.254,1.1176 0.3048,0.4572 0.8636,0.508 l 4.8768,0.8128 -0.2032,1.3208 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';stroke-width:0.26458332"
+         id="path3723" />
+      <path
+         d="m 28.452015,271.49 h 4.8768 q 0.762,0 1.0668,-0.3048 0.3556,-0.3048 0.3556,-1.016 v -24.9428 h -6.2992 v -1.8288 h 2.794 q 2.7432,0 4.4196,-1.4732 1.7272,-1.4732 2.133599,-3.556 h 1.6256 v 31.8008 q 0,0.7112 0.3048,1.016 0.3556,0.3048 1.1176,0.3048 h 4.8768 v 1.6256 H 28.452015 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';stroke-width:0.26458332"
+         id="path3725" />
+      <path
+         d="m 55.379983,281.8532 4.8768,-0.8128 q 0.5588,-0.0508 0.8128,-0.508 0.3048,-0.4572 0.3048,-1.1176 v -39.624 q 0,-0.6604 -0.3048,-1.1176 -0.254,-0.4572 -0.8128,-0.508 l -4.8768,-0.8128 0.2032,-1.3208 9.4488,0.6096 v 45.9232 l -9.4488,0.6096 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';stroke-width:0.26458332"
+         id="path3727" />
+    </g>
+  </g>
+</svg>
